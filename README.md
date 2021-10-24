@@ -27,3 +27,9 @@ The UI is build using HTML, CSS3 and application logic is written in Javascript.
 
 ### Screenshots:
 
+Initial screen
+![score](https://user-images.githubusercontent.com/19607928/138597853-40062f42-f70e-4ede-aad7-961a21ba6184.PNG)
+
+
+Three options with images
+
