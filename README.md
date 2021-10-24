@@ -32,4 +32,11 @@ Initial screen
 
 
 Three options with images
+![score1](https://user-images.githubusercontent.com/19607928/138597868-25f8e689-0703-4a4b-a25e-ee7bf86f122d.PNG)
+
+
+Winner being declared
+![score2](https://user-images.githubusercontent.com/19607928/138597892-96671ee4-4b56-411b-9334-9ef763b198a8.PNG)
+
+
 
